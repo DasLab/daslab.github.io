@@ -1,0 +1,9 @@
+<header>
+    <h1>
+        <a href="/">DasLab</a> 
+        {% if page.title %}
+        : <a href="{{ page.root }}">{{ page.title }}</a>
+        {% endif %}
+    </h1>
+    <p>{{ page.description }}</p>
+</header>
