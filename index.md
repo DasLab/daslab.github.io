@@ -2,6 +2,7 @@
 layout: home
 description: Rhiju Das Lab @ Stanford Biochemistry
 author: Siqi Tian
+repo: daslab
 ---
 
 # DasLab
