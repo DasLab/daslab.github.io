@@ -10,6 +10,39 @@ github_username:  daslab
 markdown: kramdown
 permalink: pretty
 
+# Default variables
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+      level: 1
+      author: "Siqi Tian"
+  -
+    scope:
+      path: "biers"
+    values:
+      title: "Biers"
+      description: "<u>B</u>est <u>I</u>nference <u>E</u>ngine for <u>R</u>NA <u>S</u>tructure"
+      repo: "daslab/biers"
+      root: "/biers/"
+  -
+    scope:
+      path: "lifft"
+    values:
+      title: "LIFFT"
+      description: "<u>LI</u>kelihood-Based <u>F</u>its of <u>F</u>olding <u>T</u>ransitions"
+      repo: "daslab/lifft"
+      root: "/lifft/"
+  -
+    scope:
+      path: "map_seeker"
+    values:
+      title: "MAP_Seeker"
+      description: "<u>M</u>ultiplexed <u>A</u>ccessibility <u>P</u>robing through Next Generation <u>Seq</u>uencing"
+      repo: "daslab/map_seeker"
+      root: "/map_seeker/"
 
 # Markdown Processors
 kramdown:
