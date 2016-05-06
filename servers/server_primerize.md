@@ -1,12 +1,10 @@
 ---
-layout: default
 permalink: /server_primerize/
 root: /server_primerize/
 
 title: Server_Primerize
 description: "Primerize PCR Assembly Design Server"
 repo: DasLab/Server_Primerize
-author: Siqi Tian
 ---
 
 # Primerize PCR Assembly Design Server

@@ -1,12 +1,10 @@
 ---
-layout: default
 permalink: /server_rmdb/
 root: /server_rmdb/
 
 title: Server_RMDB
 description: "<u>R</u>NA <u>M</u>apping <u>D</u>ata<u>B</u>ase"
 repo: DasLab/Server_RMDB
-author: Siqi Tian
 ---
 
 # RMDB RNA Mapping DataBase

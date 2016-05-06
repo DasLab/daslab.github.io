@@ -1,12 +1,10 @@
 ---
-layout: default
 permalink: /server_daslab/
 root: /server_daslab/
 
 title: Server_DasLab
 description: "Das Lab Website Backend"
 repo: DasLab/Server_DasLab
-author: Siqi Tian
 ---
 
 # Das Lab Website Server
