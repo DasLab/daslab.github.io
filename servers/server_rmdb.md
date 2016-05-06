@@ -1,6 +1,6 @@
 ---
-permalink: /server_rmdb/
-root: /server_rmdb/
+permalink: /Server_RMDB/
+root: /Server_RMDB/
 
 title: Server_RMDB
 description: "<u>R</u>NA <u>M</u>apping <u>D</u>ata<u>B</u>ase"
@@ -38,7 +38,7 @@ simplejson >= 3.8.1
 rdatkit >= 1.0.2
 ```
 
-* The `rdatkit` package is available internally at [hitrace/rdatkit](https://github.com/hitrace/rdatkit/).
+* The `rdatkit` package is available internally at [hitrace/rdatkit](https://github.com/hitrace/RDATKit/).
 
 * The `gviz-api.py` is available at [Google/google-visualization-python](https://github.com/google/google-visualization-python/).
 

@@ -1,5 +1,5 @@
 ---
-permalink: /lifft/
+permalink: /LIFFT/
 author: Rhiju Das
 ---
 

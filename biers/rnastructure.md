@@ -1,7 +1,7 @@
 ---
-permalink: /biers/rnastructure/
+permalink: /Biers/rnastructure/
 level: 2
-prev: https://hitrace.github.io/hitrace/tutorial/step_10/
+prev: https://hitrace.github.io/HiTRACE/tutorial/step_10/
 next: varna/
 ---
 
@@ -9,7 +9,7 @@ next: varna/
 
 <br/>
 
-This step requires proper setup of the package `biers`. Please follow the installation guides [there](/biers/install). Note that this step only requires the RNAstructure and Biers part.
+This step requires proper setup of the package `biers`. Please follow the installation guides [there](/Biers/install). Note that this step only requires the RNAstructure and Biers part.
 
 <hr/>
 

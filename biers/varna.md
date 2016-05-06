@@ -1,15 +1,15 @@
 ---
-permalink: /biers/varna/
+permalink: /Biers/varna/
 level: 2
 prev: rnastructure/
-next: https://hitrace.github.io/hitrace/tutorial/bonus_2d/
+next: https://hitrace.github.io/HiTRACE/tutorial/bonus_2d/
 ---
 
 # Step 12: Visualize Secondary Structure _<small>(optional)</small>_
 
 <br/>
 
-This step requires proper setup of the package `biers`. Please follow the installation guides [there](/biers/install). Note that this step only requires the Biers and VARNA part.
+This step requires proper setup of the package `biers`. Please follow the installation guides [there](/Biers/install). Note that this step only requires the Biers and VARNA part.
 
 <hr/>
 

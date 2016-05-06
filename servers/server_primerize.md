@@ -1,6 +1,6 @@
 ---
-permalink: /server_primerize/
-root: /server_primerize/
+permalink: /Server_Primerize/
+root: /Server_Primerize/
 
 title: Server_Primerize
 description: "Primerize PCR Assembly Design Server"

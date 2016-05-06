@@ -1,6 +1,6 @@
 ---
-permalink: /server_daslab/
-root: /server_daslab/
+permalink: /Server_DasLab/
+root: /Server_DasLab/
 
 title: Server_DasLab
 description: "Das Lab Website Backend"

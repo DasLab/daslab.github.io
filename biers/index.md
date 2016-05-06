@@ -1,5 +1,5 @@
 ---
-permalink: /biers/
+permalink: /Biers/
 ---
 
 
@@ -23,7 +23,7 @@ To install **Biers**, simply:
 - From GitHub or [**RMDB**](https://rmdb.stanford.edu/tools/), download the zip or tar file of the repository and unpack; or 
 
 ```bash
-git clone https://github.com/DasLab/biers.git
+git clone https://github.com/DasLab/Biers.git
 ```
 
 - In *MATLAB*, go to "**Set Path**". Then "**Add with Subfolders**" of the target `path/to/biers/Scripts/`.
@@ -60,11 +60,11 @@ Copyright &copy; of **Biers** _Source Code_ is described in [LICENSE.md](https:/
 <hr/>
 ## Related Packages
 
-* ### [**HiTRACE**](https://hitrace.github.io/hitrace/)
+* ### [**HiTRACE**](https://hitrace.github.io/HiTRACE/)
 
-* ### [**MAPSeeker**](/mapseeker/)
+* ### [**MAPSeeker**](/MAPseeker/)
 
-* [**RDATKit**](https://hitrace.github.io/rdatkit/)
+* [**RDATKit**](https://hitrace.github.io/RDATKit/)
 
 <hr/>
 Developed by **Das lab**, _Leland Stanford Junior University_.

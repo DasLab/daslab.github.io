@@ -18,13 +18,13 @@ Our lab seeks an agile and predictive understanding of how RNAs code for informa
 
 | Package | Status | Description |
 | --- | --- | --- |
-| [**Biers**](/biers/) | _public_ | Best Inference Engine for RNA Structure |
-| ~~[**LIFFT**](/lifft/)~~ | _public_ | LIkelihood-based Fits of Folding Transitions |
-| ~~[**MAP_Seeker**](/map_seeker/)~~ | _private_ | Analyze data from Multiple Adduct Probing read out through deep Sequencing (MAP-seq) |
-| ~~[**MaP2D**](/map2d/)~~ | _private_ | Analysis of 2D signal in mutational profiling (MaP) sequencing data |
-| ~~[**Primerize**](/primerize/)~~ | _private_ | Primer design and nucleic acid thermodynamic scripts |
+| [**Biers**](/Biers/) | _public_ | Best Inference Engine for RNA Structure |
+| ~~[**LIFFT**](/LIFFT/)~~ | _public_ | LIkelihood-based Fits of Folding Transitions |
+| ~~[**MAPseeker**](/MAPseeker/)~~ | _private_ | Analyze data from Multiple Adduct Probing read out through deep Sequencing (MAP-seq) |
+| ~~[**MaP2D**](/MaP2D/)~~ | _private_ | Analysis of 2D signal in mutational profiling (MaP) sequencing data |
+| ~~[**Primerize**](/Primerize/)~~ | _private_ | Primer design and nucleic acid thermodynamic scripts |
 | ~~[**Pymol_DasLab**](/pymol_daslab/)~~ | _public_ | Favorite RNA/protein viewing scripts from the Das lab |
-| ~~[**REEFFIT**](/reeffit/)~~ | _private_ | The RNA Ensemble Extraction From Footprinting Insights Technique |
+| ~~[**REEFFIT**](/REEFFIT/)~~ | _private_ | The RNA Ensemble Extraction From Footprinting Insights Technique |
 
 #### Click on each package for details.
 

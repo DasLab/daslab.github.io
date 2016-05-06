@@ -1,5 +1,5 @@
 ---
-permalink: /map_seeker/
+permalink: /MAPseeker/
 author: Clarence Cheng
 ---
 

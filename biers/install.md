@@ -1,5 +1,5 @@
 ---
-permalink: /biers/install/
+permalink: /Biers/install/
 level: 2
 ---
 
