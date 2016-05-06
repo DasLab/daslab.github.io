@@ -25,7 +25,7 @@ defaults:
     values:
       title: "Biers"
       description: "<u>B</u>est <u>I</u>nference <u>E</u>ngine for <u>R</u>NA <u>S</u>tructure"
-      repo: "daslab/biers"
+      repo: "DasLab/Biers"
       root: "/biers/"
   -
     scope:
@@ -33,15 +33,15 @@ defaults:
     values:
       title: "LIFFT"
       description: "<u>LI</u>kelihood-Based <u>F</u>its of <u>F</u>olding <u>T</u>ransitions"
-      repo: "daslab/lifft"
+      repo: "DasLab/LIFFT"
       root: "/lifft/"
   -
     scope:
       path: "map_seeker"
     values:
-      title: "MAP_Seeker"
+      title: "MAPseeker"
       description: "<u>M</u>ultiplexed <u>A</u>ccessibility <u>P</u>robing through Next Generation <u>Seq</u>uencing"
-      repo: "daslab/map_seeker"
+      repo: "DasLab/MAPseeker"
       root: "/map_seeker/"
 
 # Markdown Processors
