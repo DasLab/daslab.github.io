@@ -22,7 +22,7 @@ Our lab seeks an agile and predictive understanding of how RNAs code for informa
 | ~~[**LIFFT**](/LIFFT/)~~ | _public_ | LIkelihood-based Fits of Folding Transitions |
 | ~~[**MAPseeker**](/MAPseeker/)~~ | _private_ | Analyze data from Multiple Adduct Probing read out through deep Sequencing (MAP-seq) |
 | ~~[**MaP2D**](/MaP2D/)~~ | _private_ | Analysis of 2D signal in mutational profiling (MaP) sequencing data |
-| ~~[**Primerize**](/Primerize/)~~ | _private_ | Primer design and nucleic acid thermodynamic scripts |
+| [**Primerize**](/Primerize/) | _private_ | Primer design and nucleic acid thermodynamic scripts |
 | ~~[**Pymol_DasLab**](/pymol_daslab/)~~ | _public_ | Favorite RNA/protein viewing scripts from the Das lab |
 | ~~[**REEFFIT**](/REEFFIT/)~~ | _private_ | The RNA Ensemble Extraction From Footprinting Insights Technique |
 
