@@ -18,19 +18,9 @@ permalink: /Biers/
 <hr/>
 ## Installation
 
-To install **Biers**, simply:
+* #### [Biers MATLAB instructions](install/)
 
-- From GitHub or [**RMDB**](https://rmdb.stanford.edu/tools/), download the zip or tar file of the repository and unpack; or 
-
-```bash
-git clone https://github.com/DasLab/Biers.git
-```
-
-- In *MATLAB*, go to "**Set Path**". Then "**Add with Subfolders**" of the target `path/to/biers/Scripts/`.
-
-- Copy `Scripts/get_exe_dir.m.example` and `Scripts/get_varna.m.example` into `Scripts/get_exe_dir.m` and `Scripts/get_varna.m`. Edit `Scripts/get_exe_dir.m` and `Scripts/get_varna.m` following the instructions in these files.
-
-> **A complete guide on the whole setup**, including `gcc`, RNAstructure, VARNA, is described [here](install/).
+* #### [Dependency](dependency/)
 
 <hr/>
 ## Usage 
