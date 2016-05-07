@@ -18,6 +18,7 @@ defaults:
     values:
       layout: "default"
       level: 1
+      title: 
       author: "Siqi Tian"
   -
     scope:
