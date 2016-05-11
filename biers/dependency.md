@@ -6,11 +6,13 @@ prev: install/
 
 # Biers Dependency
 
+**This guide has been tested for _Mac OS X_ systems only.**{: style="color:#ff5c2b;"} We have not used _Windows_ machines for **Biers** before.
+
 <hr/>
 
 ## RNAstructure
 
-We are using the **Command Line** (Text Interface) of RNAstructure. Based on our experience, we provide instructuions that is based on and in addtion to RNAstructure's [help page](http://rna.urmc.rochester.edu/Text/index.html). This guide is tested for _Mac OS X_ systems.
+We are using the **Command Line** (Text Interface) of RNAstructure. Based on our experience, we provide instructuions that is based on and in addtion to RNAstructure's [help page](http://rna.urmc.rochester.edu/Text/index.html).
 
 * #### Install a C complier, preferably `gcc`. 
 

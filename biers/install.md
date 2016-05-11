@@ -6,6 +6,8 @@ next: dependency/
 
 # Installation
 
+**Biers** requires *MATLAB* installation. Unlike **HiTRACE**, it has no restrictions on versions.
+
 To install **Biers**, simply:
 
 - From GitHub or [**RMDB**](https://rmdb.stanford.edu/tools/), download the zip or tar file of the repository and unpack; or 
