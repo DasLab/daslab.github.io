@@ -21,7 +21,7 @@ Our lab seeks an agile and predictive understanding of how RNAs code for informa
 | [**Biers**](/Biers/) | _public_ | Best Inference Engine for RNA Structure |
 | ~~[**LIFFT**](https://ribokit.github.io/LIFFT/)~~ | _public_ | LIkelihood-based Fits of Folding Transitions |
 | ~~[**MAPseeker**](https://ribokit.github.io/MAPseeker/)~~ | _private_ | Analyze data from Multiple Adduct Probing read out through deep Sequencing (MAP-seq) |
-| ~~[**MaP2D**](https://ribokit.github.io/MaP2D/)~~ | _private_ | Analysis of 2D signal in mutational profiling (MaP) sequencing data |
+| ~~**MaP2D**~~ | _private_ | Analysis of 2D signal in mutational profiling (MaP) sequencing data |
 | [**Primerize**](/Primerize/) | _private_ | Primer design and nucleic acid thermodynamic scripts |
 | [**RiboVis**](https://ribokit.github.io/RiboVis/) | _public_ | Favorite RNA/protein viewing scripts from the Das lab |
 | ~~[**REEFFIT**](https://ribokit.github.io/REEFFIT/)~~ | _private_ | The RNA Ensemble Extraction From Footprinting Insights Technique |
