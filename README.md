@@ -1,6 +1,6 @@
 # DasLab Github Pages
 
-<img src="assets/daslab.gif" alt="Das Lab Logo" align="right">
+<img src="assets/daslab_icon.png" alt="DasLab Logo" align="right" width="200" />
 
 This is the repository that powers **https://daslab.github.io** Github Pages. It uses the [t47io/ribokit-Jekyll-theme](https://github.com/t47io/ribokit-Jekyll-theme) and [t47io/ribokit-Sphinx-theme](https://github.com/t47io/ribokit-Sphinx-theme).
 
