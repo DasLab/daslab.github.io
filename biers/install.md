@@ -18,11 +18,13 @@ git clone https://github.com/DasLab/Biers.git
 
 - In *MATLAB*, go to "**Set Path**". Then "**Add with Subfolders**" of the target `path/to/Biers/Scripts/`.
 
-- Copy `Scripts/get_exe_dir.m.example` and `Scripts/get_varna.m.example` into `Scripts/get_exe_dir.m` and `Scripts/get_varna.m`. Edit `Scripts/get_exe_dir.m` and `Scripts/get_varna.m` following the instructions in these files.
+- Make a copy of `Scripts/get_exe_dir.m.example` and `Scripts/get_varna.m.example` and rename to `Scripts/get_exe_dir.m` and `Scripts/get_varna.m`.
+
+- Edit the new `Scripts/get_exe_dir.m` and `Scripts/get_varna.m` following the instructions in these files.
 
 <hr/>
 
-In order to get **Biers** running with RNAstructure in _MATLAB_, **you have to launch _MATLAB_ from terminal every time**. 
+In order to get **Biers** running with RNAstructure in _MATLAB_, **you have to launch _MATLAB_ from terminal every time**{: style="color:#ff5c2b;"}. 
 
 > This is due to the inheritance of `DATAPATH` environment variable. To launch _MATLAB_ from terminal, run:
 
