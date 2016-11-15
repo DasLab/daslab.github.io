@@ -14,19 +14,24 @@ prev: install/
 
 We are using the **Command Line** (Text Interface) of RNAstructure. Based on our experience, we provide instructuions that is based on and in addtion to RNAstructure's [help page](http://rna.urmc.rochester.edu/Text/index.html).
 
+> We have only tested RNAstructure **version** `5.6` and `5.7`. Newer versions may utilize backward-incompatible formats that produce traceback errors at runtime. `Biers` does not support such new versions yet. You can download our working version (`5.6) at [here](https://rmdb.stanford.edu/site_data/RNAstructure.zip).
+
 * #### Install a C complier, preferably `gcc`. 
 
 We install it via `brew`, a handy package manager for _Mac OS X_. If you don't have `brew` installed, do:
 
 ```bash
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" # may need sudo
 ```
 
 Then install `gcc` with:
 
 ```bash
-brew install gcc
+brew tap homebrew/versions
+brew install gcc49
 ```
+
+> We have only tested `gcc` version `4.x`. Newer version (e.g. `5.x`, `6.x`) may have issues with compiler flags.
 
 Test if `gcc` is the default C complier. You can say:
 
@@ -38,10 +43,11 @@ gcc --version
 to check if `clang` (system default) occupies the namespace. To fix it, try:
 
 ```bash
-brew link gcc
+brew unlink gcc49
+brew link gcc49
 ```
 
-> You may need to `unlink gcc` first before `link` again.
+> Usually, the `brew` installed `gcc` exeutables are located at a path like `/usr/local/Cellar/gcc/4.x.x/bin` (also a copy of each right at `/usr/local/bin`). Look for `gcc-4.x`, `g++-4.x`, `c++-4.x`, `cpp-4.x`.
 
 <br/>
 
@@ -50,6 +56,7 @@ brew link gcc
 Edit file `~/.bash_profile`, add a line:
 
 ```bash
+export PATH=/usr/local/bin:$PATH
 export DATAPATH=/path/to/RNAstrucutre/data_tables/
 ```
 
@@ -63,7 +70,7 @@ Now close the terminal window and start a new one. (This allows the `~/.bash_pro
 
 * #### Compile RNAstructure locally.
 
-Check `/path/to/RNAstructure/compiler.h` to make sure `CXX = g++`.
+Check `/path/to/RNAstructure/compiler.h` to make sure `CXX = g++-4.x`.
 
 Now run the following command to compile the code:
 
@@ -74,7 +81,7 @@ cd RNA_class/
 make clean
 cd ..
 make all
-make install
+make install # may need sudo
 ```
 
 <hr/>

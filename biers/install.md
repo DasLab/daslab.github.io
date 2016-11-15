@@ -44,5 +44,5 @@ Again, restart your terminal to take effect. Now you only need to type `matlab` 
 
 <hr/>
 
-#### **A complete guide on the whole setup**, including `gcc`, RNAstructure, VARNA, is described [here](../dependency/).
+#### **A complete guide on the whole setup**{: style="color:#ff5c2b;"}, including `gcc`, RNAstructure, VARNA, is described [here](../dependency/).
 
