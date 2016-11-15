@@ -14,7 +14,7 @@ prev: install/
 
 We are using the **Command Line** (Text Interface) of RNAstructure. Based on our experience, we provide instructuions that is based on and in addtion to RNAstructure's [help page](http://rna.urmc.rochester.edu/Text/index.html).
 
-> We have only tested RNAstructure **version** `5.6` and `5.7`. Newer versions may utilize backward-incompatible formats that produce traceback errors at runtime. `Biers` does not support such new versions yet. You can download our working version (`5.6) at [here](https://rmdb.stanford.edu/site_data/RNAstructure.zip).
+> We have only tested RNAstructure **version** `5.6` and `5.7`. Newer versions may utilize backward-incompatible formats that produce traceback errors at runtime. `Biers` does not support such new versions yet. You can download our working version (`5.6`) from [here](https://rmdb.stanford.edu/site_data/RNAstructure.zip).
 
 * #### Install a C complier, preferably `gcc`. 
 
