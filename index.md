@@ -19,8 +19,8 @@ Our lab seeks an agile and predictive understanding of how RNAs code for informa
 | Package | Status | Description | Language |
 | --- | --- | --- | ---: |
 | [**Biers**](/Biers/) | _public_ | Best Inference Engine for RNA Structure | `MATLAB` |
-| [**LIFFT**](https://ribokit.github.io/LIFFT/)~~ | _public_ | LIkelihood-based Fits of Folding Transitions | `MATLAB` |
-| [**MAPseeker**](https://ribokit.github.io/MAPseeker/)~~ | _public_ | Analyze data from Multiple Adduct Probing read out through deep Sequencing (MAP-seq) | `MATLAB` / `C++` |
+| [**LIFFT**](https://ribokit.github.io/LIFFT/) | _public_ | LIkelihood-based Fits of Folding Transitions | `MATLAB` |
+| [**MAPseeker**](https://ribokit.github.io/MAPseeker/) | _public_ | Analyze data from Multiple Adduct Probing read out through deep Sequencing (MAP-seq) | `MATLAB` / `C++` |
 | [**M2seq**](https://github.com/ribokit/M2seq) | _public_ | Analysis of 2D signal in mutational profiling (MaP) sequencing data | `Python` |
 | [**Primerize**](/Primerize/) | _private_ | Primer design and nucleic acid thermodynamic scripts | `Python` |
 | [**RiboVis**](https://ribokit.github.io/RiboVis/) | _public_ | Favorite RNA/protein viewing scripts from the Das lab | `Python` |
