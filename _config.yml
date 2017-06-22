@@ -21,6 +21,13 @@ defaults:
       title: ""
       author: "Siqi Tian"
       ga_tracker: UA-36037648-4
+  -
+    scope:
+      path: "redirect"
+    values:
+      layout: "redirect"
+      sitemap: false
+      title: "Redirect"
 
 # Markdown Processors
 kramdown:
