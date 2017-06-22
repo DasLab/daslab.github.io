@@ -3,7 +3,7 @@ title: DasLab
 email: ribokit.info@gmail.com
 description: ""
 baseurl: ""
-url: "http://daslab.github.io"
+url: "https://daslab.github.io"
 github_username:  daslab
 
 # Build settings
@@ -21,14 +21,6 @@ defaults:
       title: ""
       author: "Siqi Tian"
       ga_tracker: UA-36037648-4
-  -
-    scope:
-      path: "biers"
-    values:
-      title: "Biers"
-      description: "<u>B</u>est <u>I</u>nference <u>E</u>ngine for <u>R</u>NA <u>S</u>tructure"
-      repo: "DasLab/Biers"
-      root: "/Biers/"
 
 # Markdown Processors
 kramdown:
