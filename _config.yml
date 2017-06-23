@@ -6,28 +6,21 @@ baseurl: ""
 url: "https://daslab.github.io"
 github_username:  daslab
 
-# Build settings
-markdown: kramdown
-permalink: pretty
-
 # Default variables
 defaults:
   -
     scope:
       path: ""
     values:
-      layout: "default"
-      level: 1
-      title: ""
-      author: "Siqi Tian"
-      ga_tracker: UA-36037648-4
-  -
-    scope:
-      path: "redirect"
-    values:
-      layout: "redirect"
+      layout: "301"
       sitemap: false
       title: "Redirect"
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
 
 # Markdown Processors
 kramdown:
